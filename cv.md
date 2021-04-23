@@ -1,29 +1,39 @@
 ---
 layout: resume
 ---
-## Currently
+## Occupation
 
-Current Position Description
+`Current` Economic Affairs Officer, Financing for Development Unit, Economic Development Division, UN ECLAC
+
+`2009-2019` Economic Affairs Officer, Economic Development Unit, Subregional Headquarters in Mexico, UN ECLAC
+
+`2004-2009` Associate Economic Affairs Officer, Economic Projections Centre, Statistics Division, UN ECLAC
+
+`2003-2004` Research Specialist, Applied Mathematics Research Programme, Mexican Petroleum Institute
+
+`2001-2002` Teaching Assistant, Economics Department, Universidad Carlos III de Madrid
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2016`
+__Tec de Monterrey__
+PhD Public Policies
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2001`
+__University of Warwick__
+MSc Economics and Finance 
 
-## Awards
+`2000` __University of Warwick__
+PG Diploma Economics
 
-`2012`
-Name of Award, Organization 
+`1997` __Tec de Monterrey__
+BA International Trade
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+My recent work can be found [here](https://ideas.repec.org/e/pvi193.html)
 
+<!--
 ### Journals
 
 `1994`
@@ -44,27 +54,11 @@ Book Title, Journal Title
 ## Presentations
 
 `1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
+Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a> -->
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2021 -->
 
 
